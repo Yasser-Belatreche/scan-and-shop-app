@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "scan-and-shop-app",
+  "private_key_id": "1b171837d77aa74f66f550182b00ca5ad2491900",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCUYC6kwyvhSV16\niaRNIVs4Lqb41wtC+BwtIUxzoAOUik98v1e/TKuLQmKXFLTfX1ij3pDWNLJ1kgs4\nEcwLyuBE30s3szvibHT6OpqCjx2tp/pnUwhctyje8e+7SRDWkv80KVYBgbRo1ui9\n8U2dDfP1K6QwkvJ8ZWWHEVAx2PF8oHhETzHCX5QtWAreM6pVhtEBr5YgshFBE2pE\nTfmq3Ufx3xWmNwqrMpJhuLZUdIeBoA2tHvB9Ytt2Uj5AfOp8GDA/uaUlxcYErRna\ndYz+pG38VL0p2WhH8rqCOCA1R+sAgEwgdZxF2smTvO54OYGhbcHLGs8E4bfHKysy\n4Q6czLARAgMBAAECggEAEubx6kGG7ItpIjw4ty7BrTWcReU3ZQ+wnzs3vx8qdZjt\nKWpC5ncA/5u0baTQqgg+hZnL/8300i+JyFnUEciFq6B6t5zYyy6f9GTU3D8ZO89D\ngjg8v3sB9O0DamuTfpJ5eo6ti0GX1ydRvSjph1GIu7oUj6+Yvqo4Ne3Jtp/5m7Ow\nA9FPcaWOO3sZAgtjxV4KsdqsNMaH+z3r/jeXkf2SZTei3bzCRFFIF/0PSXz3V04v\nbDJJtKjtwr1NX8aJajzjFfXmkaEXEfH0GTrriqRCv7D6TdAZHqi1//GU7LWSgOEY\npZvyx568vbGWh5ykRPsZ/xMAkyJz2PxOiMNha6DZ1QKBgQDNrd9XI734ZSYssioa\nGI2BimNQ5rexlReO5kN4IWYiGp3D/qKmZV2Q4/a8vMDl67rUmS9BCGXzOAJhLvlI\n5FHXpsy8L46kSWKSi7szvit1ksAOlGUhWbmi15U3TulYz5NwqXIL9sbgt9uIASa4\nuBzXq69jerkETSmfqqNtXj+xhwKBgQC4rUU5rJ0DTAhludaraZfk6uI89u1xEHei\nNV1kkueyjo3B9Zifer0LwT2okNsw3MVH99PohW8kacIzMlNc4qx1BqqaDSFumd5R\n23+LlQudzn+9XpZAxl39Xmwudr5DAc84qCW9hLiWBtQOJsNvLJvK7wjSGd9jT89V\nt7VsC31XpwKBgC1Ej1tGapE48eX0cH+916cjJiiwHs3e2oiA9WiDMU9gPEjeyj2F\nIcq54Zw4jtwLvdr8vAG8L3QQZ7Wr+QGp/rlP5M+mR+awoBlQ16rTuAzwd4S99GQa\ns1i7ygOaQpFhXjn1kTxA3BSpYo/UcQlGvFJbXwauA/qGYRrbG4z+qVYRAoGAXa5f\nyHL8rzh5pgjQkeGd0N0p6N0l883zshA6ERPIfzZ7SKHqSzQ7A+SB/6mD11SWqvxX\nvcM6bxFLFyd3TE4cR70a+8yfYfih44piOA9idinTeN+rfq5h7W5hmGxZ9anMUaRS\niMHz1P8fwRH+372URixdoB7JyBorRgNL/8QQUE8CgYEArzoiEvNQonKS9ok8m3Of\n3q6EXawbJXk7YcPuHvUjxaB9GjdksPzlgRdChy5Ow+cCwMIyQaYHAdy7RIehwK2a\nIZgxAl+vl6fYt13rPRUfBmzoVAVDcZUym1L/NOdeJMras2wd01hp6H5j1yS1SIaV\nBdom510MUP+d/LVr9VqmbFM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "scan-and-shop@scan-and-shop-app.iam.gserviceaccount.com",
+  "client_id": "105748928029424303447",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scan-and-shop%40scan-and-shop-app.iam.gserviceaccount.com"
+}
