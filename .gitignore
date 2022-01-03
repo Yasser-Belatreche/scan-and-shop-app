@@ -39,8 +39,8 @@ server/.lock-wscript
 server/build/Release
 
 # Dependency directories
-server/node_modules/
-server/jspm_packages/
+server/node_modules
+server/jspm_packages
 
 # Snowpack dependency directory (https://snowpack.dev/)
 server/web_modules/
