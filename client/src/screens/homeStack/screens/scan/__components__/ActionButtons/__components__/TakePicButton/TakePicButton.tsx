@@ -33,7 +33,7 @@ const TakePicButton: React.FC<Props> = () => {
 
   const handleTakePicPress = async () => {
     const res = await store?.cameraRef.current?.takePictureAsync({
-      quality: 0.2,
+      quality: 0.3,
     });
     if (!res?.uri) throw 'can not get the path of the image token';
 
